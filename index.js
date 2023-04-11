@@ -1,7 +1,7 @@
 const FILE_PATH = './regex';
 
 
-const regex = require(FILE_PATH); // import the regex from the solution.js file
+const regex = require(FILE_PATH); // import the regex from the regex.js file
 
 
 const pattern = 'a.*b'; // the regular expression pattern you want to match
