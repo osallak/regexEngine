@@ -1,4 +1,4 @@
-#Regex Engine
+## Regex Engine
 
 This is a simple regular expression engine built using JavaScript. It supports the following regular expression syntax:
 
